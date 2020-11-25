@@ -1,2 +1,0 @@
-# ip
-get ip
